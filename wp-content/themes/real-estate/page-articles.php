@@ -1,0 +1,21 @@
+<?php
+/*
+Template Name: Articles
+*/
+?>
+<?php get_header();?>
+<!-- content -->
+			<div id="content" class="top-bg"><div class="inner_copy"><div class="inner_copy">All <a href="" title="Best Magento Templates">premium Magento themes</a> at magentothemesworld.com!</div></div>
+				<div class="indent">
+					<h1>Article 1</h1>
+					<div class="img-box">
+						<img alt="" src="<?php echo get_template_directory_uri()?>/assets/images/3page-img1.jpg" />
+						Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc ornare lobortis elit vel venenatis. Vivamus magna arcu, placerat in elementum quis, luctus et magna. Aenean pharetra ultrices nibh, eu tempor enim commodo eu. Mauris faucibus eros nec ligula molestie accumsan. Fusce tempus porttitor porta. In pellentesque suscipit ipsum nec tincidunt. Suspendisse eu risus ac felis commodo vehicula. Fusce placerat, nisl a pretium sollicitudin, odio ligula sagittis quam, vitae consectetur enim massa et urna. Lorem ipsum dolor sit amet, consecteneque, eget porttitor ligula. Quisque ut felis id urna hendrerit facilisis. Aliquam a nisl neque, vel euismod sem. Cras congue condimentum laoreet. Praesent sed felis id enim egestas tristique ut feugiat leo. 
+					</div>
+					<p>Quisque vel lorem fermentum nisi interdum venenatis non pretium nibh. Suspendisse potenti. Nunc tempus rutrum dui, ut pulvinar erat accumsan faucibus. Integer accumsan ultrices ante, sit amet gravida augue luctus et. Pellentesque condimentum, eros a ornare eleifend, mi dui pretium elit, et tempor tortor turpis semper orci. Maecenas facilisis massa nec magna sagittis rhoncus id vitae elit. Pellentesque viverra aliquet arcu a sodales. Etiam in tincidunt nisl. Curabitur eget odio massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec semper tincidunt dui vel placerat. Phasellus vel eros euismod quam ultrices tristique molestie nec risus. Pellentesque nec eros mi, non molestie neque. In laoreet sollicitudin turpis. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc ornare lobortis elit vel venenatis.</p> 
+					<p>Vivamus magna arcu, placerat in elementum quis, luctus et magna. Aenean pharetra ultrices nibh, eu tempor enim commodo eu. Mauris faucibus eros nec ligula molestie accumsan. Fusce tempus porttitor porta. In pellentesque suscipit ipsum nec tincidunt. Suspendisse eu risus ac felis commodo vehicula. Fusce placerat, nisl a pretium sollicitudin, odio ligula sagittis quam, vitae consectetur enim massa et urna. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas sodales erat ut lacus auctor aliquet. Sed tincidunt molestie neque, eu cursus urna dictum eu. Sed sed nisi neque, eget porttitor ligula. Quisque ut felis id urna hendrerit facilisis. Aliquam a nisl neque, vel euismod sem. Cras congue condimentum laoreet. Praesent sed felis id enim egestas tristique ut feugiat leo. Quisque vel lorem fermentum nisi interdum venenatis non pretium nibh. Suspendisse potenti. Nunc tempus rutrum dui, ut pulvinar erat accumsan faucibus. Integer accumsan ultrices ante, sit amet gravida augue luctus et. Pellentesque condimentum, eros a ornare eleifend, mi dui pretium elit, et tempor tortor turpis semper orci. Maecenas facilisis massa nec magna sagittis rhoncus id vitae elit. Pellentesque viverra aliquet arcu a sodales.</p> 
+					Etiam in tincidunt nisl. Curabitur eget odio massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec semper tincidunt dui vel placerat. Phasellus vel eros euismod quam ultrices tristique molestie nec risus. Pellentesque nec eros mi, non molestie neque. In laoreet sollicitudin turpis. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc ornare lobortis elit vel venenatis. Vivamus magna arcu, placerat in elementum quis, luctus et consectetur enim massa et urna. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas sodales erat ut lacus auctor aliquet. Sed tincidunt molestie neque, eu cursus urna dictum eu. Sed sed nisi neque, eget porttitor ligula. 
+				</div>
+			</div>
+
+<?php get_footer();?>
